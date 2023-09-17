@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.14.0](https://github.com/asdf-vm/asdf/compare/v0.13.1...v0.14.0) (2023-09-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Enable `pipefail` ([#1608](https://github.com/asdf-vm/asdf/issues/1608))
+
+### Patches
+
+* Enable `pipefail` ([#1608](https://github.com/asdf-vm/asdf/issues/1608)) ([4085e55](https://github.com/asdf-vm/asdf/commit/4085e5542bac824ea124610ad247c2f90d1b8d93))
+* plugin extension commands to not require `bin/` directory ([#1643](https://github.com/asdf-vm/asdf/issues/1643)) ([61420ad](https://github.com/asdf-vm/asdf/commit/61420ad90829b2c9bf1ca16681a2eb652adcc755))
+
+
+### Documentation
+
+* fix some pt-br spelling ([#1640](https://github.com/asdf-vm/asdf/issues/1640)) ([0c7c41a](https://github.com/asdf-vm/asdf/commit/0c7c41ab44d3a42a9e57e3d20a646569c2eacfdc))
+
 ## [0.13.1](https://github.com/asdf-vm/asdf/compare/v0.13.0...v0.13.1) (2023-09-12)
 
 
